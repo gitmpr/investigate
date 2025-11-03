@@ -210,7 +210,7 @@ See [`tests/`](tests/) directory for the full test suite with 117+ test cases co
 
 ## Example Output
 
-The tool uses Unicode box-drawing characters to present information in a clean, organized format with color coding for different types of information.
+![investigate.sh help output](screenshot.png)
 
 ## Contributing
 
