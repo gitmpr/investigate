@@ -1,4 +1,6 @@
-# investigate.sh
+# i = investigate
+
+![investigate.sh help output](screenshot.png)
 
 A comprehensive bash inspection tool that provides detailed analysis of files, commands, aliases, functions, builtins, and keywords with beautifully formatted terminal output using Unicode box-drawing characters.
 
@@ -207,10 +209,6 @@ See [`tests/`](tests/) directory for the full test suite with 117+ test cases co
 - Error conditions and recovery
 - Performance and compatibility
 - Flag combinations and filtering
-
-## Example Output
-
-![investigate.sh help output](screenshot.png)
 
 ## Contributing
 
